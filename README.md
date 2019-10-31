@@ -10,17 +10,17 @@ We created our own lambdata repo locally to have more creative control.
 Function to perfomr train/validation/test split.
 Function to seperate a date into timedate format.
 
-# Where to get it
+# Where to get it/# or PyPI
 
-
-# or PyPI
 pip install -i https://test.pypi.org/simple/ lambdata-arturobrgn
 https://test.pypi.org/project/lambdata-arturobrgn/
 
 # Dependencies
+
 NumPy
 python-dateutil
 scikit learn
 
 # License
+
 MIT
